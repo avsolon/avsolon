@@ -48,8 +48,6 @@
 
 ### Frontend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/React-17-61DAFB?style=flat&logo=react&logoColor=white" alt="React" style="border-radius: 10px;">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="border-radius: 10px;">
 </div>
