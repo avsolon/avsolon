@@ -14,16 +14,17 @@
   
   <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">🎓 Мой опыт</h3>
   <ul style="font-size: 1.1em; list-style-type: none; padding: 0; text-align: center; color: #fff;">
-    <li><strong>School 21 от Сбербанк:</strong> Начал изучение с <span style="color: #ffdb00;">C</span> и <span style="color: #ffdb00;">Bash</span>, затем углубился в <span style="color: #ffdb00;">Frontend</span> (JavaScript, React).</li>
+    <li><strong>School 21 от Сбербанк:</strong> Начал свой путь изучения программирования с <span style="color: #ffdb00;">C/С++</span> и <span style="color: #ffdb00;">Bash</span>.</li>
     <li>Со временем я увлекся <span style="color: #ffdb00;">Backend</span> разработкой на <span style="color: #ffdb00;">Java</span>, и с тех пор это стал мой основной язык. <span style="color: #ffdb00;">Spring Framework</span> стал моим увлечением.</li>
     <li>Изучаю <span style="color: #ffdb00;">микросервисную архитектуру</span>, работу с <span style="color: #ffdb00;">PostgreSQL</span>, <span style="color: #ffdb00;">Docker</span>, <span style="color: #ffdb00;">Kafka</span> и другими инструментами.</li>
   </ul>
   
-  <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">💻 Мои интересы</h3>
+  <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">💻 Мои интересы на перспективу</h3>
   <ul style="font-size: 1.1em; list-style-type: none; padding: 0; text-align: center; color: #fff;">
-    <li>Программирование, особенно <span style="color: #ffdb00;">Java</span> и <span style="color: #ffdb00;">Spring</span>.</li>
+    <li>Программирование на<span style="color: #ffdb00;">Java</span> и <span style="color: #ffdb00;">Spring</span>.</li>
     <li>Разработка <span style="color: #ffdb00;">микросервисов</span> и интеграция с различными сервисами.</li>
-    <li>Работа с <span style="color: #ffdb00;">искусственным интеллектом</span> и созданием инновационных решений.</li>
+    <li>Изучение и разработка на<span style="color: #ffdb00;">Kotlin</span>.</li>
+    <li>Разработка<span style="color: #ffdb00;">мобильных приложений</span> и работа в AndroidStudio.</li>
   </ul>
 </div>
 
