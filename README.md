@@ -1,9 +1,9 @@
 <h1 align="center">Андрей Солонцов 👋</h1>
 
 <p align="center">
-  🚀 <strong>JAVA_DEVELOPER</strong>  
-  <br>🎓 Учусь в <strong>School 21</strong> от Сбербанка  
-  <br>💡 Основные интересы в области разработки микросервисов с использованием Spring  
+
+  <br>🎓 Учусь в <strong>School 21</strong> от СБЕРа 
+  <br>💡 Основные интересы в области разработки и авто-тестирования
 </p>
 
 ---
@@ -15,17 +15,17 @@
   <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">🎓 Мой опыт</h3>
   <ul style="font-size: 1.1em; list-style-type: none; padding: 0; text-align: center; color: #fff;">
     <li><strong>School 21 от Сбербанк:</strong> Начал свой путь изучения программирования с C/С++ и Bash.</li>
-    <li>Со временем я увлекся разработкой на **Java** и с тех пор это стал мой основной язык.</li>
+    <li>Со временем я увлекся разработкой на Java и Python и с тех пор развиваюсь в этих языках.</li>
     <li>Изучаю микросервисную архитектуру, работу с PostgreSQL, Kafka, Docker, Kubernetes и другими инструментами.</li>
   </ul>
   
   <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">💻 Мои интересы на перспективу</h3>
   <ul style="font-size: 1.1em; list-style-type: none; padding: 0; text-align: center; color: #fff;">
-    <li>Программирование на **Java** и **Spring**.</li>
+    <li>Программирование на Java и Python.</li>
+    <li>Авто-тестирование на Java и Python.</li>
     <li>Разработка микросервисов и интеграция с различными сервисами.</li>
-    <li>Программирование на **Kotlin**.</li>
-    <li>Разработка мобильных приложений и работа в **AndroidStudio**.</li>
-    <li>Разработка в области **AI** и **Робототехники**</li>
+    <li>Разработка мобильных приложений и ботов.</li>
+    <li>Разработка в области AI и Робототехники</li>
   </ul>
 </div>
 
