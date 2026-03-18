@@ -38,6 +38,7 @@
 
 ### Backend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Java-21-blue?style=flat&logo=java&logoColor=white" alt="Python 3.11" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/Java-21-blue?style=flat&logo=java&logoColor=white" alt="Java 17" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.4-green?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/Hibernate-5.6-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate" style="border-radius: 10px;">
@@ -78,6 +79,9 @@
 
 ## 🚀 Проекты  
 
+### 📌 [AiAssistant](https://github.com/avsolon/AiAssistantRus)
+💡 **Описание:** Телеграм-бот Ассистент ИИ. Возможность переключения внутри бота на нужную модель нейросети, на выбор YandexGPT и GigaChat. Очистка истории контекста.<br>
+🛠️ **Технологии:** Python, PTB 3.17, API YandexGPT, API GigaChat<br>
 
 ### 📌 [InterviewAssistantBot](https://github.com/avsolon/InterviewAssistantBot)
 💡 **Описание:** Телеграм-бот Ассистент ИИ для тренировки прохождения технических собеседований. Основной фишкой бота является то, что ответы на вопросы собеседования пользователь дает голосом. ИИ собеседует пользователя задавая вопросы, получает ответы и дает обратную связь, а также формирует общую рекомендацию по итогу всего собеседования. <br>
