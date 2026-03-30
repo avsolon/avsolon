@@ -81,11 +81,15 @@
 
 ## 🚀 Проекты  
 
+### 📌 [RecommenderBot](https://github.com/avsolon/RecommenderBot)
+💡 **Описание:** Телеграм-бот "Мой Рекомендатор". <br>
+🛠️ **Технологии:** Python, PTB 3.17, SQLite<br>
+
 ### 📌 [AiAssistant](https://github.com/avsolon/AiAssistantRus)
 💡 **Описание:** Телеграм-бот Ассистент ИИ. Возможность переключения внутри бота на нужную модель нейросети, на выбор YandexGPT и GigaChat. Очистка истории контекста.<br>
 🛠️ **Технологии:** Python, PTB 3.17, API YandexGPT, API GigaChat<br>
 
-### 📌 [KvizLandsBot](https://github.com/avsolon/AiAssistantRus)
+### 📌 [KvizLandsBot](https://github.com/avsolon/KvizGeoBot)
 💡 **Описание:** Телеграм-бот Квиз(Викторина) по Странам и Столицам мира. Угадываете на выбор либо столицу по стране, либо страну по столице. Возможна любая доработка.<br>
 🛠️ **Технологии:** Python, PTB 3.17<br>
 
