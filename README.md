@@ -123,6 +123,10 @@
 Настройка Nginx для проксирования, балансировки и кэширования (учебный проект)<br>
 🛠️ **Технологии:** Java, Gradle, Spring Boot, JSON, Swagger, PostgreSQL, Docker, Nginx<br>
 
+### 📌 [MySite](https://asolontsov.ru)
+💡 **Описание:** Мой сайт - моя визитка. <a href = "https://asolontsov.ru">https://asolontsov.ru</a><br>
+🛠️ **Технологии:** HTML, CSS, JS, Docker, Nginx<br>
+
 ---
 
 ---
