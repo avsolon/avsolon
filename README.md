@@ -120,7 +120,7 @@
 
 ### 📌 [TechShop](https://github.com/avsolon/techshop)
 💡 **Описание:** Backend приложения интернет-магазин бытовой техники. Реализация основных сущностей магазина, работа с БД, отработка HTTP запросов через Swagger.
-Настройка Nginx для проксирования, балансировки и кэширования (учебный проект)<br>
+Настройка Nginx для проксирования, балансировки и кэширования<br>
 🛠️ **Технологии:** Java, Gradle, Spring Boot, JSON, Swagger, PostgreSQL, Docker, Nginx<br>
 
 ### 📌 [MySite](https://asolontsov.ru)
